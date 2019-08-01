@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321928362206",
+    "firebase_url": "https://bhogn-9c9c5.firebaseio.com",
+    "project_id": "bhogn-9c9c5",
+    "storage_bucket": "bhogn-9c9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321928362206:android:adfea9f41b0a03fd",
+        "android_client_info": {
+          "package_name": "com.xmosa.flutter_zone_food_amin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321928362206-t2hir012quk0igrkniji5eq5a0m58k6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xmosa.flutter_zone_food_amin_panel",
+            "certificate_hash": "f28866ecf24f704c6a9f0d31a01cc0191a64ceb6"
+          }
+        },
+        {
+          "client_id": "321928362206-91s5h0l2eu735t20gbpt368pr2vke3db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsClcybe_GcBwLfJ-r7k4wTtZKpyojf2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321928362206-91s5h0l2eu735t20gbpt368pr2vke3db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
